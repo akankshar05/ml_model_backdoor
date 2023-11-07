@@ -14,7 +14,7 @@ another main link: https://www.tensorflow.org/model_optimization/guide/clusterin
 
 link for model_optimization : https://www.tensorflow.org/model_optimization
 
-links :
+links : 0. tfmot link: https://www.tensorflow.org/model_optimization/api_docs/python/tfmot/clustering/keras/CentroidInitialization
 
 1. https://www.tensorflow.org/lite/performance/model_optimization
 
